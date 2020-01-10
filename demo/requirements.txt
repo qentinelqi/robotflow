@@ -1,0 +1,5 @@
+cherrypy>=18.5.0
+pathlib2>=2.3.5
+robotframework>=3.2.dev1
+robotframework-excellib>=2.0.0
+robotframework-seleniumlibrary>=4.1.0
